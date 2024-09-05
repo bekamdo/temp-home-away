@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Button } from "../ui/button";
 
-import { LucideTent, LuTent } from "lucide-react";
+import { LucideTent } from "lucide-react";
 
 const Logo = () => {
   return (
